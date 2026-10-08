@@ -256,3 +256,9 @@ B 站客户端持续更新，其内部类结构、资源名称和播放器实现
 如果条件允许，请直接提供出现问题版本的安装包，方便进行本地适配测试。
 
 上述项目与本项目均采用 GPL-3.0 协议，详见 [LICENSE](LICENSE)。DexKit 使用其自身的 Apache-2.0 / LGPL-3.0 双许可证。
+
+## 项目链接
+- 仓库：
+https://github.com/makabaka11/BiliSponsorSkip
+- 反馈：
+https://github.com/makabaka11/BiliSponsorSkip/issues
