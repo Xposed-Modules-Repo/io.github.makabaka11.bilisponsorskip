@@ -7,6 +7,7 @@
 <div align="center">
 <img src="https://count.getloli.com/get/@bilisponsorskip?theme=moebooru" alt="访问统计" />
 </div>
+
 ![GitHub release](https://img.shields.io/github/v/release/makabaka11/BiliSponsorSkip?style=flat-square&color=blue)
 ![GitHub downloads](https://img.shields.io/github/downloads/makabaka11/BiliSponsorSkip/total?style=flat-square&color=green)
 ![License](https://img.shields.io/github/license/makabaka11/BiliSponsorSkip?style=flat-square)
